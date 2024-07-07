@@ -5,7 +5,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório que desenvolvi para um desafio prático do curso Santander 2024 - Fundamentos de IA para Devs, realizado pela DIO.
 
-O desafio tive o objetivo de gerar um artigo utilizando ferramentas de IA. Todos os prompts
+Nesse desafio tive o objetivo de gerar um artigo utilizando ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 O Link do artigo publicado na plataforma da DIO é o seguinte: 
