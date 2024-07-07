@@ -5,15 +5,17 @@
 
  > ℹ️ **NOTE:** Este é o repositório que desenvolvi para um desafio prático do curso Santander 2024 - Fundamentos de IA para Devs, realizado pela DIO.
 
-O desafio tive o objetivo de gerar um ebook digital utilizando ferramentas de IA. todos os prompts
+O desafio tive o objetivo de gerar um artigo utilizando ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+O Link do artigo publicado na plataforma da DIO é o seguinte: 
+
+<a href="https://web.dio.me/articles/entendendo-if-e-else-a-base-da-tomada-de-decisao-em-programacao?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View artigo now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canva](https://www.canva.com/)
+- [Lexica Art](https://www.canva.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -23,21 +25,34 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook para primeiros passos no html, o ebook é do nicho de programação e o subnicho é o html. Liste 5 variações de títulos.                                                        |
-| conteúdo | faça um texto para ebook, com foco em HTML, listando os principais elementos básicos do html com exemplos em código. (REGRAS) Explique sempre de uma maneira simples;Deixe o texto enxuto; Sempre traga exemplos de códigos em contextos reais; Sempre deixe um título sugestivo por tópico. |
+|  título  | crie 10 headlines para nomes de artigos sobre o assunto lógica de programação if else.                                                        |
+| conteúdo | Comporte-se como um escritor de artigos tech de desenvolvimento de sitemas e escreva o Artigo atendendo as regras abaixo.
+
+{REGRAS}
+>No máximo 5 linhas por parágrafo.
+>Me explique de maneira informal como se eu fosse um leigo no assunto e nunca tivesse ouvido falar nesses assuntos antes.
+>Os blocos que serão criados estão abaixo: 
+ 
+
+- O que é lógica de programação
+- O que são estruturas de decisão
+- O que são if e else
+- Cite exemplos com código de estrutura de decisão com if e else
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtgas que façam sentido
 
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Capa criada no Canva
-- Diamagração feita com o Powerpoint
+- Capa criada no PowerPoint
+- Imagem da capa gerada na Lexica Art
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas para o desafio em `output`
+
 
 ## 🛠️ Instruções de execução
 
